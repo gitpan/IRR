@@ -1,0 +1,9 @@
+Revision history for Perl extension IRR.
+
+0.01  Tue May 21 10:45:41 PDT 2002
+	- original version; created by h2xs 1.20 with options
+		-AX -n IRR
+
+1.00  Wed May 22 01:31:42 PDT 2002
+        - Tool Query Language is fully supported
+
